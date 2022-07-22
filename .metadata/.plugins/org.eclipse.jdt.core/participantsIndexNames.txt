@@ -1,0 +1,5 @@
+INDEX VERSION 1.130
+C:\Users\HRITHIK SANTHOSH\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1731209777.index
+\learner_academy\src
+C:\Users\HRITHIK SANTHOSH\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\728023436.index
+\Learners_Academy\src
